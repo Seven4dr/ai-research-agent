@@ -1,4 +1,5 @@
 .env
+.env.example
 Clés.txt
 __pycache__/
 *.pyc
