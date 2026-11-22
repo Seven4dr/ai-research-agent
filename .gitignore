@@ -1,0 +1,8 @@
+.env
+Clés.txt
+__pycache__/
+*.pyc
+.pytest_cache/
+data/research/*.json
+data/reports/*.pdf
+.streamlit/
